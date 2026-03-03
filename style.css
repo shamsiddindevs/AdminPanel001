@@ -26,9 +26,7 @@ body {
     align-items: center;
     background-color: green;
     flex-wrap: wrap;
-    height: 100vh;
-     align-content: center;
-      align-content: space-between;
+  
 }
 
 .order2 {
